@@ -38,10 +38,12 @@
 .Titulo{
     margin: 9% 0 0 3%;
     font-size: 2em;
+    color: #fff;
 }
 .texto{
     font-size: 22px;
     margin: 10px 0 0 3%;
+    color: #fff;
 }
 .boton{
     cursor: pointer;
