@@ -8,7 +8,9 @@
     box-sizing: border-box;
 }
 #container{
-    background: #dfe6e9;
+    background: url("/img/image1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
     height: 100vh;
 }
 .cabecera{
