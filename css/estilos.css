@@ -105,3 +105,11 @@
 .card3{
     margin-right: 3%;
 }
+#pie{
+    color: #fff;
+    background: #74b9ff;
+    padding: 2%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
