@@ -70,3 +70,11 @@
     background-color: #1e293b;
     color: #fff;
 }
+#pie{
+    color: #fff;
+    background: #74b9ff;
+    padding: 2%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
