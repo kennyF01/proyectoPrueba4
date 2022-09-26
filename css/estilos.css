@@ -105,13 +105,11 @@
 .card3{
     margin-right: 3%;
 }
-.cowork img{
+.card img{
     width: 100%;
     margin-bottom: 10px;
 }
-.cafe img{
-    width: 75%;
-}
+
 #pie{
     color: #fff;
     background: #74b9ff;
