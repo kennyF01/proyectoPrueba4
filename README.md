@@ -3,7 +3,7 @@
 >- by yo
 
 ## Que buen curso la verdad xd
-#"NO PARES DE APRENDER"
+#'#NO PARES DE APRENDER'
 
 #### Lista desordenada
 *lista 1
